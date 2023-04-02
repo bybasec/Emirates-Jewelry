@@ -3,6 +3,13 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "2fb14348-2faa-4d3c-846c-7aaaf822b668": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<div class=\"ProductBoxTopline\"><h1 class=\"ProductBoxTopline-title\">Sport Keychain<\/h1><h5 class=\"ProductBoxTopline-subtitle\">for AirTag<\/h5><div class=\"ProductBoxTopline-reviews\"><div class=\"OkendoStarRatingContainer\" style=\"margin-top: 10px;\"><button class=\"OkendoStarRating-content\" aria-label=\"Rated 5.0 out of 5 stars. Read reviews\"><div class=\"StarRatingContainer\"><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><\/div><p class=\"OkendoStarRating-text\">2 Reviews<\/p><\/button><\/div><\/div><div class=\"ProductBoxTopline-description\"><div class=\"ProductBoxTopline-RichText\"><p>Sport Keychain maintains AirTag’s slim profile and functionality while offering protection from everyday wear and tear. <\/p><ul style=\"list-style: inside disc;\"><li>FKM fluoroelastomer rubber<\/li><li>PVD stainless steel D-ring<\/li><li>3M adhesive and microsuction attachment<\/li><li>AirTag battery easily accessible for replacement<\/li><\/ul><\/div><a class=\"ProductBoxTopline-showDescription\">Show Less<\/a><\/div><\/div>"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -77,6 +84,7 @@
         }
       },
       "block_order": [
+        "2fb14348-2faa-4d3c-846c-7aaaf822b668",
         "price",
         "separator",
         "variant_picker",
@@ -102,17 +110,6 @@
     },
     "sub": {
       "type": "product-full-width",
-      "blocks": {
-        "5d09497d-8d89-4832-92b4-e30f0946cd0c": {
-          "type": "text",
-          "settings": {
-            "text": "Text block"
-          }
-        }
-      },
-      "block_order": [
-        "5d09497d-8d89-4832-92b4-e30f0946cd0c"
-      ],
       "settings": {
         "max_width": true
       }

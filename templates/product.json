@@ -1,1 +1,239 @@
-{"sections":{"main":{"type":"main-product","blocks":{"price":{"type":"price","settings":{}},"separator":{"type":"separator","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"variant_labels":true,"picker_type":"button","product_dynamic_variants_enable":true,"color_swatches":false}},"sales_point":{"type":"sales_point","settings":{"icon":"globe","text":"Free worldwide shipping"}},"inventory_status":{"type":"inventory_status","settings":{"inventory_threshold":20,"inventory_transfers_enable":true}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"surface_pickup_enable":true}},"description":{"type":"description","settings":{"is_tab":false}},"tab":{"type":"tab","settings":{"title":"Shipping information","content":"<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>","page":""}},"contact":{"type":"contact","settings":{"title":"Ask a question","phone":false}},"share":{"type":"share","settings":{}}},"block_order":["price","separator","variant_picker","sales_point","inventory_status","buy_buttons","description","tab","contact","share"],"settings":{"sku_enable":false,"image_size":"large","product_zoom_enable":true,"thumbnail_position":"beside","thumbnail_height":"flexible","thumbnail_arrows":true,"enable_video_looping":true,"product_video_style":"muted"}},"sub":{"type":"product-full-width","blocks":{"5d09497d-8d89-4832-92b4-e30f0946cd0c":{"type":"text","settings":{"text":"Text block"}}},"block_order":["5d09497d-8d89-4832-92b4-e30f0946cd0c"],"settings":{"max_width":true}},"background-image-text":{"type":"background-image-text","settings":{"subtitle":"Impressive","title":"Large image with text box","text":"<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>","button_label":"","button_link":"","layout":"left","height":550,"parallax":false,"parallax_direction":"top","lazyload_images":true}},"text-and-image":{"type":"text-and-image","settings":{"image_mask":"none","image2_mask":"none","subtitle":"","title":"Image with text","text":"<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"right","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"text-and-image2":{"type":"text-and-image","settings":{"image_mask":"none","image2_mask":"none","subtitle":"","title":"Image with text","text":"<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>","button_label":"","button_link":"","button_style":"primary","align_text":"left","image_width":"50","layout":"left","divider":false,"top_padding":true,"bottom_padding":true,"lazyload_images":true}},"testimonials":{"type":"testimonials","blocks":{"testimonials-0":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author name","author_info":"Los Angeles, CA"}},"testimonials-1":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author name","author_info":"Los Angeles, CA"}},"testimonials-2":{"type":"testimonial","settings":{"icon":"5-stars","testimonial":"<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>","author":"Author name","author_info":"Los Angeles, CA"}}},"block_order":["testimonials-0","testimonials-1","testimonials-2"],"settings":{"title":"Don't take our word for it","round_images":true,"color_background":"#f9f9f9","color_text":"#1c1d1d"}},"product-recommendations":{"type":"product-recommendations","settings":{"product_recommendations_heading":"You may also like","related_count":6,"products_per_row":3}},"collection-return":{"type":"collection-return","settings":{}}},"order":["main","sub","background-image-text","text-and-image","text-and-image2","testimonials","product-recommendations","collection-return"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "2fb14348-2faa-4d3c-846c-7aaaf822b668": {
+          "type": "custom",
+          "disabled": true,
+          "settings": {
+            "code": "<div class=\"ProductBoxTopline\"><h1 class=\"ProductBoxTopline-title\">Sport Keychain<\/h1><h5 class=\"ProductBoxTopline-subtitle\">for AirTag<\/h5><div class=\"ProductBoxTopline-reviews\"><div class=\"OkendoStarRatingContainer\" style=\"margin-top: 10px;\"><button class=\"OkendoStarRating-content\" aria-label=\"Rated 5.0 out of 5 stars. Read reviews\"><div class=\"StarRatingContainer\"><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><div class=\"StarRating-star\" style=\"background: rgb(0, 0, 0); width: 15px; height: 15px;\"><\/div><\/div><p class=\"OkendoStarRating-text\">2 Reviews<\/p><\/button><\/div><\/div><div class=\"ProductBoxTopline-description\"><div class=\"ProductBoxTopline-RichText\"><p>Sport Keychain maintains AirTag’s slim profile and functionality while offering protection from everyday wear and tear. <\/p><ul style=\"list-style: inside disc;\"><li>FKM fluoroelastomer rubber<\/li><li>PVD stainless steel D-ring<\/li><li>3M adhesive and microsuction attachment<\/li><li>AirTag battery easily accessible for replacement<\/li><\/ul><\/div><a class=\"ProductBoxTopline-showDescription\">Show Less<\/a><\/div><\/div>"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "sales_point": {
+          "type": "sales_point",
+          "settings": {
+            "icon": "globe",
+            "text": "Free worldwide shipping"
+          }
+        },
+        "inventory_status": {
+          "type": "inventory_status",
+          "settings": {
+            "inventory_threshold": 20,
+            "inventory_transfers_enable": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        },
+        "4d0d44f3-50b5-43c1-93e1-09cd4d92c5be": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "size"
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping information",
+            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "2fb14348-2faa-4d3c-846c-7aaaf822b668",
+        "price",
+        "separator",
+        "variant_picker",
+        "sales_point",
+        "inventory_status",
+        "buy_buttons",
+        "description",
+        "4d0d44f3-50b5-43c1-93e1-09cd4d92c5be",
+        "tab",
+        "contact",
+        "share"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_size": "large",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_height": "flexible",
+        "thumbnail_arrows": true,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "settings": {
+        "max_width": true
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image with text box",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "layout": "left",
+        "height": 550,
+        "parallax": false,
+        "parallax_direction": "top",
+        "lazyload_images": true
+      }
+    },
+    "text-and-image": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text-and-image2": {
+      "type": "text-and-image",
+      "settings": {
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Image with text",
+        "text": "<p>Pair large text with an image to tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonials-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        },
+        "testimonials-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5-stars",
+            "testimonial": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "author": "Author name",
+            "author_info": "Los Angeles, CA"
+          }
+        }
+      },
+      "block_order": [
+        "testimonials-0",
+        "testimonials-1",
+        "testimonials-2"
+      ],
+      "settings": {
+        "title": "Don't take our word for it",
+        "round_images": true,
+        "color_background": "#f9f9f9",
+        "color_text": "#1c1d1d"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "You may also like",
+        "related_count": 6,
+        "products_per_row": 3
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "background-image-text",
+    "text-and-image",
+    "text-and-image2",
+    "testimonials",
+    "product-recommendations",
+    "collection-return"
+  ]
+}

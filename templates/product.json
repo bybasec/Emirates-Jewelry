@@ -49,6 +49,12 @@
             "is_tab": false
           }
         },
+        "4d0d44f3-50b5-43c1-93e1-09cd4d92c5be": {
+          "type": "size_chart",
+          "settings": {
+            "size_chart": "size"
+          }
+        },
         "tab": {
           "type": "tab",
           "settings": {
@@ -68,12 +74,6 @@
           "type": "share",
           "settings": {
           }
-        },
-        "4d0d44f3-50b5-43c1-93e1-09cd4d92c5be": {
-          "type": "size_chart",
-          "settings": {
-            "size_chart": "size"
-          }
         }
       },
       "block_order": [
@@ -84,10 +84,10 @@
         "inventory_status",
         "buy_buttons",
         "description",
+        "4d0d44f3-50b5-43c1-93e1-09cd4d92c5be",
         "tab",
         "contact",
-        "share",
-        "4d0d44f3-50b5-43c1-93e1-09cd4d92c5be"
+        "share"
       ],
       "settings": {
         "sku_enable": false,

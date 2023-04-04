@@ -56,9 +56,16 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "ece4c9bd-1dda-49d5-9bdc-aa6134559e05": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": true,
+            "menu": "footer",
+            "container_width": 15
+          }
+        },
         "footer-2": {
           "type": "newsletter",
-          "disabled": true,
           "settings": {
             "show_footer_title": true,
             "title": "New products, blog updates, deals, and more.",
@@ -66,12 +73,12 @@
             "container_width": 15
           }
         },
-        "footer-1": {
+        "e1c8fb93-ebd0-4987-b6de-a40c92621c0d": {
           "type": "menu",
           "settings": {
             "show_footer_title": true,
             "menu": "footer",
-            "container_width": 20
+            "container_width": 15
           }
         },
         "footer-0": {
@@ -80,12 +87,23 @@
             "desktop_logo_height": 50,
             "container_width": 20
           }
+        },
+        "4e8b9e2e-7ff5-4a78-b065-fca68f8df5b3": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": true,
+            "title": "Custom text",
+            "text": "<p>Add your own custom text here.<\/p>",
+            "container_width": 20
+          }
         }
       },
       "block_order": [
+        "ece4c9bd-1dda-49d5-9bdc-aa6134559e05",
         "footer-2",
-        "footer-1",
-        "footer-0"
+        "e1c8fb93-ebd0-4987-b6de-a40c92621c0d",
+        "footer-0",
+        "4e8b9e2e-7ff5-4a78-b065-fca68f8df5b3"
       ],
       "settings": {
         "show_locale_selector": true,

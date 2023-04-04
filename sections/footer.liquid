@@ -1,7 +1,7 @@
 {%- liquid
   assign show_selectors = false
-  assign currency_selector = true
-  assign locale_selector = true
+  assign currency_selector = false
+  assign locale_selector = false
 
   if section.settings.show_currency_selector and shop.enabled_currencies.size > 1
     assign currency_selector = true
